@@ -51,7 +51,7 @@ Copy code
 ## ⚡ How to Run
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/leetcode150.git
+   git clone https://github.com/yrohitash90/leetcode150.git
    cd leetcode150
 Go to any problem folder
 
