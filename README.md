@@ -24,10 +24,6 @@ leetcode150/
 │
 └── ...
 
-yaml
-Copy code
-
-👉 Replace `Problem1_Name`, `Problem2_Name`, etc. with your actual folder names later.
 
 ---
 
