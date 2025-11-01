@@ -24,10 +24,6 @@ leetcode150/
 │
 └── ...
 
-yaml
-Copy code
-
-👉 Replace `Problem1_Name`, `Problem2_Name`, etc. with your actual folder names later.
 
 ---
 
@@ -77,5 +73,5 @@ Build a reference library of solved problems
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
 📧 Contact
-Author: Rohtash Yadav
+Author: Rohtash 
 Email: yrohitash90@gmail.com
